@@ -1,0 +1,10 @@
+# Ignore dataset directory
+dataset/
+model.py
+
+
+# OS and IDE junk
+.DS_Store
+.vscode/
+*.log
+.env
